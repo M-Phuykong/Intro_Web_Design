@@ -1,0 +1,123 @@
+h2 {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    font-style: normal;
+    color: #ffffff;
+}
+
+button {
+    padding: 16px 12px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #000000;
+}
+
+button:hover {
+    padding: 16px 12px;
+    background-color: #451275;
+    border: 1px solid #f2f2f2;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    font-style: normal;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#container_1 {
+    width: 50%;
+    padding: 150px 0px;
+    margin: 0 0 48px 0;
+    background-color: #9b51e0;
+}
+
+#container_2 {
+    padding: 150px 48px;
+    margin: 0 0 48px 0;
+    background-color: #451275;
+}
+
+#container_2 p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: normal;
+    color: #ffffff;
+}
+
+#container_3 {
+    width: 25%;
+    padding: 150px 48px;
+    margin: 0 0 48px 0;
+    background-color: #451275;
+}
+
+#container_3 h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    font-style: normal;
+    color: #ffffff;
+    margin: 0 0 8px 0;
+}
+
+#container_3 img {
+    width: 100%;
+    margin: 0 0 8px 0;
+}
+
+#container_3 p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: normal;
+    color: #ffffff;
+    margin: 0 0 16px 0;
+}
+
+#container_4 {
+    padding: 24px;
+    margin: 0 0 48px 0;
+    background-color: #5b421b;
+    text-align: center;
+}
+
+#container_4 .child_container {
+    display: inline-block;
+    width: 30%;
+    text-align: left;
+}
+
+.child_container h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    font-style: normal;
+    color: #ffffff;
+    margin: 0 0 16px 0;
+}
+
+.child_container p {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: normal;
+    color: #ffffff;
+    margin: 0 0 16px 0;
+}
+
+.child_container img {
+    width: 100%;
+    margin: 0 0 16px 0;
+}
+
