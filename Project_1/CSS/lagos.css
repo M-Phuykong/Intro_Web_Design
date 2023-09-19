@@ -1,0 +1,48 @@
+h1 {
+    margin: 1rem;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 1rem;
+}
+
+li {
+    font-size: 20px;
+    margin: 1rem;
+}
+
+q {
+    font-size: 28px;
+    margin: 1rem;
+}
+
+.hero_image {
+    height: 75%;
+    width: 100%;
+}
+
+.picture {
+    height: 300px;
+    width: 500px;
+}
+
+.picture_container {
+    display: flex;
+    align-items: center;
+    margin: 2rem;
+    height: max-content;
+}
+
+.picture_item {
+    flex: 1;
+    text-align: center;
+    height: 35rem;
+}
+
+.picture_item p {
+    margin: 1rem;
+    text-align: start;
+}
+

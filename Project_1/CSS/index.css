@@ -1,0 +1,56 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+    min-height: 100%;
+    font-family: "Roboto", sans-serif;
+}
+
+#header_navigation {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#header_navigation a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    text-align: start;
+
+
+    height: 100%;
+    margin: 2rem;
+}
+
+.item p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+button {
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
